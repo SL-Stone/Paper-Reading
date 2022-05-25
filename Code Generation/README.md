@@ -217,3 +217,29 @@ Updated to 2022
 
 
 
+## 2020
+
+> #### [Incorporating External Knowledge through Pre-training for Natural Language to Code Generation](paper/2020ACL%20Incorporating%20External%20Knowledge%20through%20Pre-training%20for%20Natural%20Language%20to%20Code%20Generation.pdf)
+>
+> 2020 ACL
+>
+> > Frank F. Xu, Zhengbao Jiang, Pengcheng Yin, Bogdan Vasilescu, Graham Neubig
+> > 
+> #### [Semantic Scaffolds for Pseudocode-to-Code Generation](paper/2020ACL%20Semantic%20Scaffolds%20for%20Pseudocode-to-Code%20Generation.pdf)
+>
+> 2020 ACL
+>
+> > Ruiqi Zhong, Mitchell Stern, Dan Klein
+> > 
+> #### [CodeBERT: A Pre-Trained Model for Programming and Natural Languages](paper/2020CodeBERT.pdf)
+>
+> 2020 arXiv
+>
+> > Zhangyin Feng1∗ , Daya Guo2∗ , Duyu Tang3, Nan Duan3, Xiaocheng Feng, Ming Gong4, Linjun Shou4, Bing Qin1, Ting Liu1, Daxin Jiang4, Ming Zhou
+> > 
+> #### [IntelliCode Compose: Code Generation using Transformer](paper/2020ESEC-FSE%20IntelliCode.pdf)
+>
+> ESEC/FSE ’20  
+>
+> > Alexey Svyatkovskiy, Shao Kun Deng, Shengyu Fu, Neel Sundaresan
+
