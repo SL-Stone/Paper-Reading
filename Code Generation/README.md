@@ -10,7 +10,7 @@ Updated to 2022
 > >
 > >>Daniel C. Wang, Daniel C. Wang, Jeff L. Korn, Christopher S. Serra
 >
-> >#### [Learning to Map Sentences to Logical Form_ Structured Classification with Probabilistic Categorial Grammars](paper/2005UAI%20Learning%20to%20Map%20Sentences%20to%20Logical Form%20%20Structured%20Classification%20with%20Probabilistic%20Categorial%20Grammars.pdf)  
+> >#### [Learning to Map Sentences to Logical Form_ Structured Classification with Probabilistic Categorial Grammars](paper/2005UAI%20Learning%20to%20Map%20Sentences%20to%20Logical%20Form%20%20Structured%20Classification%20with%20Probabilistic%20Categorial%20Grammars.pdf)  
 > >
 > >>Luke S. Zettlemoyer, Michael Collins
 > >>
@@ -40,7 +40,7 @@ Updated to 2022
 > >
 > > > Adrienne Wang, Tom Kwiatkowski, Tom Kwiatkowski
 >
-> > #### [Type-Driven Incremental Semantic Parsing with Polymorphism](paper/2014CL Type-Driven%20Incremental%20Semantic%20Parsing%20with%20Polymorphism.pdf)
+> > #### [Type-Driven Incremental Semantic Parsing with Polymorphism](paper/2014CL%20Type-Driven%20Incremental%20Semantic%20Parsing%20with%20Polymorphism.pdf)
 > > 
 > > 2014 Association for Computational Linguistics
 > > 
@@ -69,6 +69,9 @@ Updated to 2022
 > > 2015 NeurIPS
 > >
 > > > Oriol Vinyals, Meire Fortunato, Navdeep Jaitly
+
+
+
 
 > ## 2016
 >
@@ -101,10 +104,15 @@ Updated to 2022
 > > 2016 ACL
 > >
 > > > Chunyang Xiao, Marc Dymetman, Claire Gardent
+> > >
+> >
+
+
+
 
 > ## 2017
 >
-> > #### [Seq2SQL: Generating Structured Queries from Natural Language using Reinforcement Learning](paper/17Seq2SQL_%20Generating%20Structured%20Queries%20from%20Natural%20Language%20using%20Reinforcement%20Learning.pdf)
+> > #### [Seq2SQL: Generating Structured Queries from Natural Language using Reinforcement Learning](paper/2017Seq2SQL_%20Generating%20Structured%20Queries%20from%20Natural%20Language%20using%20Reinforcement%20Learning.pdf)
 > >
 > > 2017 arXiv
 > >
@@ -133,3 +141,64 @@ Updated to 2022
 > > ESEC/FSE’17
 > >
 > > > Vincent J. Hellendoorn, Premkumar Devanbu
+
+
+
+> ## 2018
+>
+> > [A Grammar-Based Structural CNN Decoder for Code Generation](paper/2018AAAI%20A%20Grammar-Based%20Structural%20CNN%20Decoder%20for%20Code%20Generation.pdf)
+> >
+> > 2019 AAAI Association for the Advancement of Artificial Intelligence
+> >
+> > > Zeyu Sun, Qihao Zhu, Lili Mou, Yingfei Xiong, Ge Li, Lu Zhang
+>
+> > [STRUCTVAE: Tree-structured Latent Variable Models for Semi-supervised Semantic Parsing](paper/2018ACL%20STRUCTVAE_%20Tree-structured%20Latent%20Variable%20Models%20for%20Semi-supervised%20Semantic%20Parsing.pdf)
+> >
+> > 2018 ACL
+> >
+> > > Pengcheng Yin, Chunting Zhou, Junxian He, Graham Neubig
+>
+> > [Retrieval-Based Neural Code Generation](paper/2018EMNLP%20Retrieval-Based%20Neural%20Code%20Generation.pdf)
+> >
+> > 2018 EMNLP
+> >
+> > > Shirley Anugrah Hayati, Raphael Olivier, Pravalika Avvaru, Pengcheng Yin, Anthony Tomasic, Graham Neubig
+>
+> > [**TRANX**: A Transition-based Neural Abstract Syntax Parser for Semantic Parsing and Code Generation](paper/2018EMNLP%20TRANX%20A%20transition-based%20neural%20abstract%20syntax%20parser%20for%20semantic%20parsing%20and%20code%20generation.pdf)
+> >
+> > 2018 EMNLP
+> >
+> > > Pengcheng Yin, Graham Neubig
+>
+> > [SQLNet: GENERATING STRUCTURED QUERIES FROM NATURAL LANGUAGE WITHOUT REINFORCEMENT LEARNING](paper/2018ICLR%20SQLNet_%20GENERATING%20STRUCTURED%20QUERIES%20FROM%20NATURAL%20LANGUAGE%20WITHOUT%20REINFORCEMENT%20LEARNING.pdf)
+> >
+> > 2018 ICLR
+> >
+> > > Xiaojun Xu, Chang Liu, Dawn Song
+>
+> > [Learning to Mine Aligned Code and Natural Language Pairs from Stack Overflow](paper/2018MSR%20Learning%20to%20mine%20aligned%20code%20and%20natural%20language-Conala.pdf)
+> >
+> > MSR'18, 2018 Association for Computing Machinery  
+> >
+> > > Pengcheng Yin, Bowen Deng, Edgar Chen, Bogdan Vasilescu, Graham Neubig
+>
+> > [TypeSQL: Knowledge-based Type-Aware Neural Text-to-SQL Generation](paper/2018NAACL%20TypeSQL_%20Knowledge-based%20Type-Aware%20Neural%20Text-to-SQL%20Generation.pdf)
+> >
+> > 2018 NAACL
+> >
+> > > Tao Yu, Zifan Li, Zilin Zhang, Rui Zhang, Dragomir Radev
+>
+> > [StaQC: A Systematically Mined Question-Code Dataset from Stack Overflow](paper/2018WWW%20StaQC-A%20Systematically%20Mined%20Question-Code%20Dataset.pdf)
+> >
+> > 2018 WWW, 2018 IW3C2 (International World Wide Web Conference Committee)  
+> >
+> > > Ziyu Yao, Daniel S. Weld, Wei-Peng Chen, Huan Sun
+>
+> > [NL2Bash: A Corpus and Semantic Parser for Natural Language Interface to the Linux Operating System](paper/2018LREC%20nl2bash-corpus.pdf)
+> >
+> > 2018 LREC
+> >
+> > > Xi Victoria Lin, Chenglong Wang, Luke Zettlemoyer, Michael D. Ernst
+
+
+
