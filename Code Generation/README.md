@@ -201,3 +201,19 @@ Updated to 2022
 
 
 
+## 2019
+
+> #### [**TreeGen**: A Tree-Based Transformer Architecture for Code Generation](paper/2019AAAI%20TreeGen_%20A%20Tree-Based%20Transformer%20Architecture%20for%20Code%20Generation.pdf)
+>
+> 2020 AAAI
+>
+> > Zeyu Sun, Qihao Zhu, Yingfei Xiong, Yican Sun, Lili Mou, Lu Zhang
+> >
+> #### [Reranking for Neural Semantic Parsing](paper/2019ACL%20Reranking%20for%20Neural%20Semantic%20Parsing.pdf)
+>
+> 2019 ACL
+>
+> > Pengcheng Yin, Graham Neubig
+
+
+
