@@ -98,9 +98,38 @@ Updated to 2022
 >
 > > #### [Sequence-based Structured Prediction for Semantic Parsing](paper/2016ACL%20Sequence-based%20Structured%20Prediction%20for%20Semantic%20Parsing.pdf)
 > >
-> > Chunyang Xiao, Marc Dymetman, Claire Gardent
+> > 2016 ACL
 > >
-> > > 2016 ACL
+> > > Chunyang Xiao, Marc Dymetman, Claire Gardent
 
-2017
-
+> ## 2017
+>
+> > #### [Seq2SQL: Generating Structured Queries from Natural Language using Reinforcement Learning](paper/17Seq2SQL_%20Generating%20Structured%20Queries%20from%20Natural%20Language%20using%20Reinforcement%20Learning.pdf)
+> >
+> > 2017 arXiv
+> >
+> > > Victor Zhong, Caiming Xiong, Richard Socher
+>
+> > #### [A Minimal Span-Based Neural Constituency Parser](paper/2017ACL%20A%20Minimal%20Span-Based%20Neural%20Constituency%20Parser.pdf)
+> >
+> > 2017 ACL Proceedings of the 55th Annual Meeting of the Association for Computational Linguistics
+> >
+> > > Mitchell Stern, Jacob Andreas, Dan Klein
+>
+> > #### [A Syntactic Neural Model for General-Purpose Code Generation](paper/2017ACL%20A%20Syntactic%20Neural%20Model%20for%20General-Purpose%20Code%20Generation.pdf)
+> >
+> > 2017 ACL
+> >
+> > > Pengcheng Yin, Graham Neubig
+>
+> > #### [Abstract Syntax Networks for Code Generation and Semantic Parsing](paper/2017ACL%20Abstract%20Syntax%20Networks%20for%20Code%20Generation%20and%20Semantic%20Parsing.pdf)
+> >
+> > 2017 ACL
+> >
+> > > Maxim Rabinovich, Mitchell Stern, Dan Klein
+>
+> > #### [Are Deep Neural Networks the Best Choice for Modeling Source Code?](paper/2017ESEC-FSE%20Are%20Deep%20Neural%20Networks%20the%20Best%20Choice%20for%20Modeling%20Source%20Code.pdf)
+> >
+> > ESEC/FSE’17
+> >
+> > > Vincent J. Hellendoorn, Premkumar Devanbu
