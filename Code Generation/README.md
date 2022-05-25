@@ -145,55 +145,55 @@ Updated to 2022
 
 ## 2018
 
-> > [A Grammar-Based Structural CNN Decoder for Code Generation](paper/2018AAAI%20A%20Grammar-Based%20Structural%20CNN%20Decoder%20for%20Code%20Generation.pdf)
+> > #### [A Grammar-Based Structural CNN Decoder for Code Generation](paper/2018AAAI%20A%20Grammar-Based%20Structural%20CNN%20Decoder%20for%20Code%20Generation.pdf)
 > >
 > > 2019 AAAI Association for the Advancement of Artificial Intelligence
 > >
 > > > Zeyu Sun, Qihao Zhu, Lili Mou, Yingfei Xiong, Ge Li, Lu Zhang
 >
-> > [STRUCTVAE: Tree-structured Latent Variable Models for Semi-supervised Semantic Parsing](paper/2018ACL%20STRUCTVAE_%20Tree-structured%20Latent%20Variable%20Models%20for%20Semi-supervised%20Semantic%20Parsing.pdf)
+> > #### [STRUCTVAE: Tree-structured Latent Variable Models for Semi-supervised Semantic Parsing](paper/2018ACL%20STRUCTVAE_%20Tree-structured%20Latent%20Variable%20Models%20for%20Semi-supervised%20Semantic%20Parsing.pdf)
 > >
 > > 2018 ACL
 > >
 > > > Pengcheng Yin, Chunting Zhou, Junxian He, Graham Neubig
 >
-> > [Retrieval-Based Neural Code Generation](paper/2018EMNLP%20Retrieval-Based%20Neural%20Code%20Generation.pdf)
+> > #### [Retrieval-Based Neural Code Generation](paper/2018EMNLP%20Retrieval-Based%20Neural%20Code%20Generation.pdf)
 > >
 > > 2018 EMNLP
 > >
 > > > Shirley Anugrah Hayati, Raphael Olivier, Pravalika Avvaru, Pengcheng Yin, Anthony Tomasic, Graham Neubig
 >
-> > [**TRANX**: A Transition-based Neural Abstract Syntax Parser for Semantic Parsing and Code Generation](paper/2018EMNLP%20TRANX%20A%20transition-based%20neural%20abstract%20syntax%20parser%20for%20semantic%20parsing%20and%20code%20generation.pdf)
+> > #### [**TRANX**: A Transition-based Neural Abstract Syntax Parser for Semantic Parsing and Code Generation](paper/2018EMNLP%20TRANX%20A%20transition-based%20neural%20abstract%20syntax%20parser%20for%20semantic%20parsing%20and%20code%20generation.pdf)
 > >
 > > 2018 EMNLP
 > >
 > > > Pengcheng Yin, Graham Neubig
 >
-> > [SQLNet: GENERATING STRUCTURED QUERIES FROM NATURAL LANGUAGE WITHOUT REINFORCEMENT LEARNING](paper/2018ICLR%20SQLNet_%20GENERATING%20STRUCTURED%20QUERIES%20FROM%20NATURAL%20LANGUAGE%20WITHOUT%20REINFORCEMENT%20LEARNING.pdf)
+> > #### [SQLNet: GENERATING STRUCTURED QUERIES FROM NATURAL LANGUAGE WITHOUT REINFORCEMENT LEARNING](paper/2018ICLR%20SQLNet_%20GENERATING%20STRUCTURED%20QUERIES%20FROM%20NATURAL%20LANGUAGE%20WITHOUT%20REINFORCEMENT%20LEARNING.pdf)
 > >
 > > 2018 ICLR
 > >
 > > > Xiaojun Xu, Chang Liu, Dawn Song
 >
-> > [Learning to Mine Aligned Code and Natural Language Pairs from Stack Overflow](paper/2018MSR%20Learning%20to%20mine%20aligned%20code%20and%20natural%20language-Conala.pdf)
+> > #### [Learning to Mine Aligned Code and Natural Language Pairs from Stack Overflow](paper/2018MSR%20Learning%20to%20mine%20aligned%20code%20and%20natural%20language-Conala.pdf)
 > >
 > > MSR'18, 2018 Association for Computing Machinery  
 > >
 > > > Pengcheng Yin, Bowen Deng, Edgar Chen, Bogdan Vasilescu, Graham Neubig
 >
-> > [TypeSQL: Knowledge-based Type-Aware Neural Text-to-SQL Generation](paper/2018NAACL%20TypeSQL_%20Knowledge-based%20Type-Aware%20Neural%20Text-to-SQL%20Generation.pdf)
+> > #### [TypeSQL: Knowledge-based Type-Aware Neural Text-to-SQL Generation](paper/2018NAACL%20TypeSQL_%20Knowledge-based%20Type-Aware%20Neural%20Text-to-SQL%20Generation.pdf)
 > >
 > > 2018 NAACL
 > >
 > > > Tao Yu, Zifan Li, Zilin Zhang, Rui Zhang, Dragomir Radev
 >
-> > [StaQC: A Systematically Mined Question-Code Dataset from Stack Overflow](paper/2018WWW%20StaQC-A%20Systematically%20Mined%20Question-Code%20Dataset.pdf)
+> > #### [StaQC: A Systematically Mined Question-Code Dataset from Stack Overflow](paper/2018WWW%20StaQC-A%20Systematically%20Mined%20Question-Code%20Dataset.pdf)
 > >
 > > 2018 WWW, 2018 IW3C2 (International World Wide Web Conference Committee)  
 > >
 > > > Ziyu Yao, Daniel S. Weld, Wei-Peng Chen, Huan Sun
 >
-> > [NL2Bash: A Corpus and Semantic Parser for Natural Language Interface to the Linux Operating System](paper/2018LREC%20nl2bash-corpus.pdf)
+> > #### [NL2Bash: A Corpus and Semantic Parser for Natural Language Interface to the Linux Operating System](paper/2018LREC%20nl2bash-corpus.pdf)
 > >
 > > 2018 LREC
 > >
@@ -219,27 +219,60 @@ Updated to 2022
 
 ## 2020
 
-> #### [Incorporating External Knowledge through Pre-training for Natural Language to Code Generation](paper/2020ACL%20Incorporating%20External%20Knowledge%20through%20Pre-training%20for%20Natural%20Language%20to%20Code%20Generation.pdf)
+> > #### [Incorporating External Knowledge through Pre-training for Natural Language to Code Generation](paper/2020ACL%20Incorporating%20External%20Knowledge%20through%20Pre-training%20for%20Natural%20Language%20to%20Code%20Generation.pdf)
+> >
+> > 2020 ACL
+> >
+> > > Frank F. Xu, Zhengbao Jiang, Pengcheng Yin, Bogdan Vasilescu, Graham Neubig
+> > > 
 >
-> 2020 ACL
+> > #### [Semantic Scaffolds for Pseudocode-to-Code Generation](paper/2020ACL%20Semantic%20Scaffolds%20for%20Pseudocode-to-Code%20Generation.pdf)
+> >
+> > 2020 ACL
+> >
+> > > Ruiqi Zhong, Mitchell Stern, Dan Klein
+> > > 
 >
-> > Frank F. Xu, Zhengbao Jiang, Pengcheng Yin, Bogdan Vasilescu, Graham Neubig
-> > 
-> #### [Semantic Scaffolds for Pseudocode-to-Code Generation](paper/2020ACL%20Semantic%20Scaffolds%20for%20Pseudocode-to-Code%20Generation.pdf)
+> > #### [CodeBERT: A Pre-Trained Model for Programming and Natural Languages](paper/2020CodeBERT.pdf)
+> >
+> > 2020 arXiv
+> >
+> > > Zhangyin Feng , Daya Guo, Duyu Tang, Nan Duan, Xiaocheng Feng, Ming Gong, Linjun Shou, Bing Qin, Ting Liu, Daxin Jiang, Ming Zhou
+> > > 
 >
-> 2020 ACL
+> > #### [IntelliCode Compose: Code Generation using Transformer](paper/2020ESEC-FSE%20IntelliCode.pdf)
+> >
+> > ESEC/FSE ’20  
+> >
+> > > Alexey Svyatkovskiy, Shao Kun Deng, Shengyu Fu, Neel Sundaresan
+
+
+
+## 2021
+
+> > #### [Improving Tree-Structured Decoder Training for Code Generation via Mutual Learning](paper/2021AAAI%20Improving%20Tree-Structured%20Decoder%20Training%20for%20Code%20Generation%20via%20Mutual%20Learning.pdf)
+> >
+> > 2021 AAAI
+> >
+> > > Binbin Xie, Jinsong Su, Yubin Ge, Xiang Li, Jianwei Cui, Junfeng Yao, Bin Wang
 >
-> > Ruiqi Zhong, Mitchell Stern, Dan Klein
-> > 
-> #### [CodeBERT: A Pre-Trained Model for Programming and Natural Languages](paper/2020CodeBERT.pdf)
+> > #### [Code Generation from Natural Language with Less Prior and More Monolingual Data](paper/2021ACL%20Code%20Generation%20from%20Natural%20Language%20with%20Less%20Prior%20and%20More%20Monolingual%20Data.pdf)
+> >
+> > 2021 ACL
+> >
+> > > Sajad Norouzi, Keyi Tang, Yanshuai Cao
 >
-> 2020 arXiv
+> > #### [Exploring Dynamic Selection of Branch Expansion Orders for Code Generation](paper/2021ACL%20Exploring%20Dynamic%20Selection%20of%20Branch%20Expansion%20Orders%20for%20Code%20Generation.pdf)
+> >
+> > 2021 ACL
+> >
+> > > Hui Jiang, Chulun Zhou, Fandong Meng, Biao Zhang, Jie Zhou, Degen Huang, Qingqiang Wu, Jinsong Su
 >
-> > Zhangyin Feng1∗ , Daya Guo2∗ , Duyu Tang3, Nan Duan3, Xiaocheng Feng, Ming Gong4, Linjun Shou4, Bing Qin1, Ting Liu1, Daxin Jiang4, Ming Zhou
-> > 
-> #### [IntelliCode Compose: Code Generation using Transformer](paper/2020ESEC-FSE%20IntelliCode.pdf)
->
-> ESEC/FSE ’20  
->
-> > Alexey Svyatkovskiy, Shao Kun Deng, Shengyu Fu, Neel Sundaresan
+> > #### [SeCNN: A semantic CNN parser for code comment generation](paper/2021JSS%20SeCNN_%20A%20semantic%20CNN%20parser%20for%20code%20comment%20generation.pdf)
+> >
+> > 2021 The Journal of Systems & Software
+> >
+> > > Zheng Li, Yonghao Wu, Bin Peng, Xiang Chen, Zeyu Sun, Yong Liu, Deli Yu
+
+
 
